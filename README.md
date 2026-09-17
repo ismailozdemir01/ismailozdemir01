@@ -10,66 +10,50 @@
   <a href="https://github.com/ismailozdemir01?tab=stars">Stars</a>
 </p>
 
-I build practical software systems at the intersection of **artificial intelligence, cybersecurity, automation, identity, infrastructure and developer tooling**.
+I build practical software at the intersection of **artificial intelligence, cybersecurity, automation, identity, infrastructure and developer tooling**.
 
-My work focuses on turning technical ideas into testable, maintainable software with real deployment paths rather than presentation-only prototypes.
+My engineering approach is simple: **build the real system, test it, harden it, document it and make it deployable.**
 
 ---
 
-## 🚀 What I Build
+## 🚀 Focus Areas
 
 ### 🤖 AI & Autonomous Systems
 
 - AI-powered applications and automation
-- Multi-agent and agentic workflows
-- Intelligent analysis and decision-support pipelines
+- Agentic and multi-agent workflows
+- Analysis and decision-support pipelines
 - AI-assisted developer and security tooling
 
 ### 🛡️ Cybersecurity & Defensive Engineering
 
-- Security assessment and exposure analysis
-- Attack-surface visibility
+- Security assessment and exposure visibility
 - Identity and Active Directory security
 - Defensive automation and containment workflows
 - Security validation, monitoring and reporting
 
 ### ⚙️ Software Engineering
 
-- Python and C#/.NET systems
+- Python and C#/.NET
 - FastAPI and REST APIs
-- Desktop applications
+- Desktop and cross-platform applications
 - GitHub Actions and CI/CD
 - Windows and Linux software
 - Databases, infrastructure and automation
 
 ---
 
-## 🔥 Featured Work
+## 🧩 Selected Work
 
-> Projects below are part of the wider development work associated with the ISH ecosystem. Repository status, documentation and release availability are maintained in their respective repositories.
+My development portfolio includes projects across AI, defensive security, identity, infrastructure and automation. Public repositories are listed below; additional work may remain private during development, testing or product preparation.
 
-| Project | Focus |
-|---|---|
-| **ishAD** | Active Directory administration and security tooling |
-| **ISHExploitWhite** | Authorized exposure assessment and security validation |
-| **ISH-Enterprise** | Enterprise-oriented defensive security tooling |
-| **ISH-FortiNova** | Defensive security platform development |
+### 🧬 ish TissueMap Fusion
 
-### ishAD
+Experimental Flutter/Dart research software exploring sensor-data fusion, visualization and AI-assisted analysis concepts.
 
-A security-conscious Active Directory administration concept focused on controlled changes, policy evaluation, risk awareness and administrator approval.
+> **Research status:** This project is experimental software and is not presented as a medical device or a substitute for professional medical diagnosis.
 
-### ISHExploitWhite
-
-A platform for authorized external exposure assessment, security validation, reporting and responsible-disclosure-oriented workflows.
-
-### ISH-Enterprise
-
-Enterprise-focused security tooling and defensive capabilities developed within the ISH ecosystem.
-
-### ISH-FortiNova
-
-Defensive security platform development focused on infrastructure protection and security operations.
+**Repository:** https://github.com/ismailozdemir01/ish_tissuemap_fusion
 
 ---
 
@@ -88,9 +72,7 @@ Platforms       Windows · Linux
 
 ---
 
-## 🧭 Engineering Focus
-
-I am particularly interested in systems where **AI, security and automation intersect**:
+## 🧭 Engineering Interests
 
 - Security automation
 - Identity and access management
@@ -98,27 +80,27 @@ I am particularly interested in systems where **AI, security and automation inte
 - Exposure management
 - Defensive security operations
 - AI-assisted security analysis
-- Multi-agent software systems
+- Multi-agent systems
 - Infrastructure automation
 - Developer tooling
 
 ---
 
-## 🧪 Build → Test → Release
+## 🧪 Build → Test → Harden → Release
 
-My development workflow emphasizes:
+I prefer an engineering lifecycle that keeps implementation and operational reality connected:
 
-1. **Build** — implement the actual system and its integration points.
-2. **Test** — validate behavior with automated and environment-level testing.
+1. **Build** — implement the actual system and integration points.
+2. **Test** — verify behavior with automated and environment-level testing.
 3. **Harden** — address security, reliability and operational edge cases.
-4. **Release** — package software for reproducible deployment where applicable.
-5. **Document** — keep usage, architecture and operational requirements discoverable.
+4. **Release** — package software for reproducible deployment where appropriate.
+5. **Document** — make installation, usage and operational requirements discoverable.
 
 ---
 
-## 🌍 Open Source & Collaboration
+## 🌍 Collaboration
 
-I am interested in collaborating on practical projects involving:
+Interested in practical collaboration around:
 
 - Artificial intelligence
 - Cybersecurity
@@ -128,33 +110,20 @@ I am interested in collaborating on practical projects involving:
 - Developer tooling
 - Open-source engineering
 
-For security research and testing, projects are intended for **authorized environments and systems where the operator has permission to assess or modify them**.
+Security research and testing is intended for **authorized environments and systems where the operator has permission to assess or modify them**.
 
 ---
 
-## 📌 Find My Work
+## 📌 Explore
 
-- **GitHub:** [@ismailozdemir01](https://github.com/ismailozdemir01)
-- **Repositories:** [github.com/ismailozdemir01?tab=repositories](https://github.com/ismailozdemir01?tab=repositories)
-- **Profile projects:** pinned repositories on this profile highlight the work I want visitors to discover first.
-
----
-
-## 📈 GitHub Profile
-
-<p align="center">
-  <a href="https://github.com/ismailozdemir01">
-    <img src="https://img.shields.io/badge/GitHub-ismailozdemir01-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="https://github.com/ismailozdemir01?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-2ea44f?style=for-the-badge&logo=github" alt="Repositories" />
-  </a>
-</p>
+- **GitHub:** https://github.com/ismailozdemir01
+- **Repositories:** https://github.com/ismailozdemir01?tab=repositories
+- **Public projects:** https://github.com/ismailozdemir01?tab=repositories&q=&type=public
 
 ---
 
-## 💬 About This Profile
+## 🔎 Profile Philosophy
 
-This profile is the central entry point for my public software work. Individual repositories contain the implementation, tests, documentation and release information for each project.
+This profile is the entry point for my public engineering work. Each public repository should stand on its own with clear documentation, reproducible setup, tests and release information where applicable.
 
 > **Build practical systems. Test them. Harden them. Ship them.**
